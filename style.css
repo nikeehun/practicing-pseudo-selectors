@@ -7,6 +7,10 @@ p {
     width: 300px;
     border: 2px solid black;
     text-align: center;
-    margin: auto;
-    padding: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+
+p:hover {
+    background: #f0604a;
 }
