@@ -1,0 +1,12 @@
+div {
+    font-size: 30px;
+}
+
+p {
+    height: 100px;
+    width: 300px;
+    border: 2px solid black;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
